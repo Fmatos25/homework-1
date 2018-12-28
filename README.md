@@ -139,36 +139,38 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 ### 10. What is a webpage?
 
-*Your answer here.*
+*an html page which can be made nicer and interactive using css and javascript*
 
 
 ### 11. Webpage I like
 
-What's one webpage you like? Why?
+9gag.com? I like the setup adn autoload feature as you scroll down.
 
 
 ### 12. Website I don’t like
 
-What's one webpage you like? Why?
+dont have a site i perticularly dislike? dont understand enough about them to know whether or not its bad or not.
 
 
 ### 13. Resources
 
-Where is a good place to look for information about HTML tags?
+W3school.com
 
 
 ### 14. HTML Versions
 
-Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
+Which version of HTML are we covering in this class? 5
 
-What is XML?
+What is it's DOCTYPE tag? HTML
+
+What is XML? 
 
 What is XHTML?
 
 
 ### 15. HTML
 
-Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program?
+Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program?Plain text
 
 Are HTML files interpreted or executed?
 
