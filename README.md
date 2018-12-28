@@ -122,11 +122,11 @@ Please edit this file to add your answers to the following questions.
 
 ### 9. HTTPS
 
-What does the S stand for in HTTPS?
+What does the S stand for in HTTPS? Secure.
 
-Why is HTTPS better than HTTP?
+Why is HTTPS better than HTTP? more security for sensative information.
 
-Should all web pages use HTTPS?
+Should all web pages use HTTPS? No only websites using information that needs extra protection.
 
 
 ## Webpages
